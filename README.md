@@ -33,7 +33,7 @@ python2 SSB.SS
 
 
 <p align="center">
- <img src="https://github.com/Sarfraz-Baloch/SSB-TOOLS/blob/main/Screenshot_20210622-103402.jpg" width="640" title="Menu" alt="Menu">
+ <img src="https://github.com/Sarfraz-Baloch/SSB-TOOLS/blob/main/Screenshot_20211021-185433.png" width="640" title="Menu" alt="Menu">
  
 
 ### CLONING ###
